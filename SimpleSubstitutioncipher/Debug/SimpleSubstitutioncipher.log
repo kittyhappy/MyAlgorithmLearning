@@ -1,0 +1,4 @@
+﻿  SimpleSubstitutioncipher.cpp
+E:\source\repos\SimpleSubstitutioncipher\SimpleSubstitutioncipher.cpp(11,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\source\repos\SimpleSubstitutioncipher\SimpleSubstitutioncipher.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+  SimpleSubstitutioncipher.vcxproj -> E:\source\repos\SimpleSubstitutioncipher\Debug\SimpleSubstitutioncipher.exe
